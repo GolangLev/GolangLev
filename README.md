@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lev
-- 👀 I’m interested in Dart & Flutter, Golang
+- 👀 I’m interested in Dart & Flutter
 - 🌱 I’m currently working as a teacher in the field of computer science
 - 📫 How to reach me e-mail: ctracer@inbox.ru
 
